@@ -68,9 +68,9 @@ The code for extracting raw data from the device is attached above. This code wi
 
 In order to make the code work you will first need to download the libraries for the LCD shield and temperature and humidity sensors. You will find the libraries at the following websites
 
- ![LCD shield code:](https://learn.adafruit.com/rgb-lcd-shield/using-th...)
+ [LCD shield code:](https://learn.adafruit.com/rgb-lcd-shield/using-th...)
 
-![Temperature and humidity sensor code:]( https://github.com/adafruit/DHT-sensor-library)
+[Temperature and humidity sensor code:]( https://github.com/adafruit/DHT-sensor-library)
 
 ##  Temperature and Humidity Sensors
 
