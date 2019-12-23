@@ -68,7 +68,7 @@ The code for extracting raw data from the device is attached above. This code wi
 
 In order to make the code work you will first need to download the libraries for the LCD shield and temperature and humidity sensors. You will find the libraries at the following websites
 
- [LCD shield code:](https://learn.adafruit.com/rgb-lcd-shield/using-th...)
+ [LCD shield code:](https://learn.adafruit.com/rgb-lcd-shield/using-the-rgb-lcd-shield)
 
 [Temperature and humidity sensor code:]( https://github.com/adafruit/DHT-sensor-library)
 
@@ -96,7 +96,7 @@ For MQ sensors we use the graphs on the device datasheets to qualitatively asses
 
 Once we obtain approximate concentrations of the target gasses, we defer to US government standards to interpret the data. We primarily use the EPA Technical Assistance Document for the Reporting of Daily Air Quality and a CDC information sheet on the hazards of propane.
 
-Unfortunately our code that interprets the raw data is not yet fully functional. We hope to be able upload it at a later date.
+
 
 
 
