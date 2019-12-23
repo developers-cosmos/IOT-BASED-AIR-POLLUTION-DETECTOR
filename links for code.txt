@@ -1,3 +1,5 @@
-LCD shield code: https://learn.adafruit.com/rgb-lcd-shield/using-th...
+ 
+[LCD shield code:](https://learn.adafruit.com/rgb-lcd-shield/using-th...)
 
-Temperature and humidity sensor code: https://github.com/adafruit/DHT-sensor-library
+ 
+[Temperature and humidity sensor code:](https://github.com/adafruit/DHT-sensor-library)
