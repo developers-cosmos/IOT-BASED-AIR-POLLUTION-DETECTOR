@@ -96,6 +96,14 @@ For MQ sensors we use the graphs on the device datasheets to qualitatively asses
 
 Once we obtain approximate concentrations of the target gasses, we defer to US government standards to interpret the data. We primarily use the EPA Technical Assistance Document for the Reporting of Daily Air Quality and a CDC information sheet on the hazards of propane.
 
+## Important Features
+
+* This internet of things example can also detect flammable gas leaks.
+* Particle matter detector, gas sensor, temperature, and humidity sensor are used.
+* This type of project built based on Arduino Uno.
+* Very helpful to detect air pollution close to the hospital or school.
+* This project is cost-efficient.
+
 
 
 
