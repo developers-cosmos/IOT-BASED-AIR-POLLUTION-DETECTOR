@@ -27,7 +27,7 @@ Solder Board
 10 to 15 wires of gauge 24
 
 ## CIRCUIT
-![CIRCUIT DIAGRAM](/Desktop/CIRCUIT.jpg)
+![CIRCUIT DIAGRAM](https://cdn.instructables.com/FJF/4TV1/I9OSX6JD/FJF4TV1I9OSX6JD.LARGE.jpg?auto=webp&fit=bounds)
 
 
 
